@@ -1,0 +1,25 @@
+
+body{
+    padding-top: 70px
+}
+.navbar{
+    box-shadow: 2px 2px 5px #5aa7b7; 
+}
+.nav-item{
+    font-size: 1.2rem; margin-right: 25px
+}
+
+header{
+    min-height: 100vh; 
+    background-image: linear-gradient(rgba(90,167,183,.8),rgba(90,167,183,.8)) , url(../images/mountains.jpg);
+    background-position: center; background-size: cover;
+}
+
+footer{
+    height: 200px;
+}
+
+.copy{
+    margin-left: 150px;
+    font-size: 20px
+}
